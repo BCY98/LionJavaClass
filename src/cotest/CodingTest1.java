@@ -1,4 +1,4 @@
-package Day04;
+package cotest;
 
 public class CodingTest1 {
     static int idx = 0;
